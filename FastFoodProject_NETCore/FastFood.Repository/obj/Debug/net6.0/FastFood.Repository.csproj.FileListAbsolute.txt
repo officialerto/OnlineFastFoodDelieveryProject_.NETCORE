@@ -1,0 +1,15 @@
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.deps.json
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.dll
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.pdb
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.AssemblyInfoInputs.cache
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.AssemblyInfo.cs
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.csproj.CoreCompileInputs.cache
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.dll
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\refint\FastFood.Repository.dll
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.pdb
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\ref\FastFood.Repository.dll
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\bin\Debug\net6.0\FastFood.Models.dll
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\bin\Debug\net6.0\FastFood.Models.pdb
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.csproj.AssemblyReference.cache
+D:\Github\OnlineFastFoodDelieveryProject_.NETCORE\FastFoodProject_NETCore\FastFood.Repository\obj\Debug\net6.0\FastFood.46B052DB.Up2Date
